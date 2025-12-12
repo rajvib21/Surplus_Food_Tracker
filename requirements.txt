@@ -1,0 +1,12 @@
+streamlit
+pillow
+opencv-python
+pytesseract
+numpy
+pandas
+scikit-learn
+matplotlib
+sqlalchemy
+python-dotenv
+nltk
+requests
