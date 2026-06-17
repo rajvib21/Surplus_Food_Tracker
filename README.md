@@ -116,7 +116,7 @@ Monitor:
 
 ## Frontend
 
-- React / Streamlit
+- React
 
 ## Database
 
