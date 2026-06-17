@@ -1,4 +1,4 @@
-# AI SURPKUS FOOD TRACKER
+# AI SURPLUS FOOD TRACKER
 ## AI-Powered Surplus Food Rescue & Smart Logistics Platform
 
 > **Reducing food waste through intelligent donation matching, volunteer dispatch, and optimized food rescue logistics.**
